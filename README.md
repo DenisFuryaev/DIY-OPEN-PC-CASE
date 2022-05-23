@@ -3,6 +3,12 @@ Materials:
 - aluminum profile (20x20 profile: 80mm - x4, 200mm - x4, 340mm - x5, 325mm -x6)
 - plywood 325mm x 380mm
 
+Side view   |  Front view
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/65111871/169840745-2d11a9cc-a701-402d-9473-d795b6f0680a.png) | ![image](https://user-images.githubusercontent.com/65111871/169840880-bf327a3e-b8a3-4148-ad5b-be0668d13f69.png)
+
+
+
 PC components:
 - Motherboard: MSI mpg x570 gaming edge wifi 
 - CPU: AMD 3600x
