@@ -11,7 +11,7 @@ Side view   |  Front view
 
 PC components:
 - Motherboard: MSI mpg x570 gaming edge wifi 
-- CPU: AMD 3600x
+- CPU: AMD Ryzen 5 3600X
 - GPU: Gigabyte GeForce RTX 2060 SUPER GAMING OC 8G
 - PSU: Be quiet! STRAIGHT POWER 11 850W Platinum
 - DRAM: HyperX Predator DDR4 3200MHz 2x8GB
