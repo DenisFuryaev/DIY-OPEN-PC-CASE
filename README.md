@@ -20,3 +20,6 @@ PC components:
 - **HDD tray:** Exegate HS335-01
 
 ![image](https://user-images.githubusercontent.com/65111871/169838196-688e8aec-60ef-4897-8486-d47e05c55074.png)
+
+![image](https://user-images.githubusercontent.com/65111871/169895577-659de407-7281-4b17-bac1-d72edac347c9.png)
+
