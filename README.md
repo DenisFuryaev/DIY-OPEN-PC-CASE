@@ -1,6 +1,6 @@
 # Open case for ATX motherboard and ATX PSU 
 Materials: 
-- **Aluminum profile** (20x20 profile: 80mm - x4, 200mm - x4, 340mm - x5, 325mm -x6)
+- **Aluminum profile** (20x20 square section profile: 80mm - x4, 200mm - x4, 340mm - x5, 325mm -x6; 20x20 angular section profile: 340mm)
 - **Plywood** (325mm x 380mm) or another easy to cut durable material
 
 Side view   |  Front view
@@ -23,3 +23,4 @@ PC components:
 
 ![image](https://user-images.githubusercontent.com/65111871/169895577-659de407-7281-4b17-bac1-d72edac347c9.png)
 
+![image](https://user-images.githubusercontent.com/65111871/169997070-7409bd75-4640-4649-b638-63c8024dc8b5.png)
